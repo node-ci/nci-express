@@ -1,4 +1,6 @@
 # nci-express
+[![Build Status](https://travis-ci.org/fleg/nci-express.svg?branch=master)](https://travis-ci.org/fleg/nci-express)
+
 [express](https://github.com/expressjs/express) plugin for [nci](https://github.com/node-ci/nci)
 to simplify http related plugins development
 
