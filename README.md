@@ -1,5 +1,5 @@
 # nci-express
-express plugin for [nci](https://github.com/node-ci/nci)
+[express](https://github.com/expressjs/express) plugin for [nci](https://github.com/node-ci/nci)
 to simplify http related plugins development
 
 
