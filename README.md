@@ -31,6 +31,8 @@ exports.register = function(app) {
 };
 ```
 
+Look at [nci-shields](https://github.com/fleg/nci-shields) as example.
+
 ## License
 
 [The MIT License](https://raw.githubusercontent.com/fleg/nci-express/master/LICENSE)
