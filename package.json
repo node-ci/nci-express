@@ -1,0 +1,37 @@
+{
+  "name": "nci-express",
+  "version": "0.0.1",
+  "description": "express plugin for nci",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --bail --reporter spec test.js"
+  },
+  "files": [
+    "lib/index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fleg/nci-express.git"
+  },
+  "keywords": [
+    "nciplugin",
+    "express"
+  ],
+  "author": "Aleksey Timchenko <flegmatik.bel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fleg/nci-express/issues"
+  },
+  "homepage": "https://github.com/fleg/nci-express#readme",
+  "peerDependencies": {
+    "nci": "0.10.x"
+  },
+  "dependencies": {
+    "body-parser": "1.15.1",
+    "express": "4.13.4"
+  },
+  "devDependencies": {
+    "expect.js": "0.3.1",
+    "mocha": "2.5.3"
+  }
+}
