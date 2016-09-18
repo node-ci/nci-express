@@ -1,6 +1,6 @@
 {
   "name": "nci-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "express plugin for nci",
   "main": "lib/index.js",
   "scripts": {
