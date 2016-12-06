@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/fleg/nci-express#readme",
   "peerDependencies": {
-    "nci": "0.10.x || 1.0.x"
+    "nci": ">=1.0.1 <1.1.0"
   },
   "dependencies": {
     "body-parser": "1.15.1",
