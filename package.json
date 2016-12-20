@@ -6,9 +6,6 @@
   "scripts": {
     "test": "mocha --bail --reporter spec test.js"
   },
-  "files": [
-    "lib/index.js"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fleg/nci-express.git"
