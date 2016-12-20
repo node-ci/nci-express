@@ -22,10 +22,10 @@ plugins:
 
 Add this plugin to `peerDependencies` at your plugin package.json
 
-Just use `app.httpApp` as express instance
+Just use `app.express` as express instance
 ```js
 exports.register = function(app) {
-	app.httpApp.get('/some/route', function(req, res) {
+	app.express.get('/some/route', function(req, res) {
 		res.json({ok: true})
 	});
 };
