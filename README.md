@@ -1,5 +1,5 @@
 # nci-express
-[![Build Status](https://travis-ci.org/fleg/nci-express.svg?branch=master)](https://travis-ci.org/fleg/nci-express)
+[![Build Status](https://travis-ci.org/node-ci/nci-express.svg?branch=master)](https://travis-ci.org/node-ci/nci-express)
 
 [express](https://github.com/expressjs/express) plugin for [nci](https://github.com/node-ci/nci)
 to simplify http related plugins development
@@ -31,8 +31,8 @@ exports.register = function(app) {
 };
 ```
 
-Look at [nci-shields](https://github.com/fleg/nci-shields) as example.
+Look at [nci-shields](https://github.com/node-ci/nci-shields) as example.
 
 ## License
 
-[The MIT License](https://raw.githubusercontent.com/fleg/nci-express/master/LICENSE)
+[The MIT License](https://raw.githubusercontent.com/node-ci/nci-express/master/LICENSE)
