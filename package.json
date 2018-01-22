@@ -24,7 +24,7 @@
     "nci": ">=1.0.1 <1.1.0"
   },
   "dependencies": {
-    "body-parser": "1.15.2",
+    "body-parser": "1.18.2",
     "express": "4.16.2"
   },
   "devDependencies": {
